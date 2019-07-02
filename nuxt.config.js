@@ -24,6 +24,11 @@ export default {
         type: "image/png",
         sizes: "32x32",
         href: "/favicon/favicon-32x32.png"
+      },
+      {
+        rel: "stylesheet",
+        href:
+          "https://fonts.googleapis.com/css?family=PT+Sans:400,700|Poiret+One&display=swap"
       }
     ]
   }
