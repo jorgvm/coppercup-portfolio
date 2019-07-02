@@ -1,7 +1,7 @@
 {
   "name": "coppercup-portfolio",
   "description": "Jorg van Maaren, Front-end Web Developer, responsive sites met gebruik van React, Vue, ES6, CSS (Sass), Git",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "CC-BY-NC-ND-4.0",
   "main": "index.js",
   "author": "Jorg van Maaren",
