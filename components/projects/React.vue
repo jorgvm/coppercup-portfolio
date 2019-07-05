@@ -6,7 +6,8 @@
 
       <p>
         <strong>Hacker News feed</strong><br />
-        <em>React, MobX, Babel proposals, Hacker News API</em><br /><br />
+        <em>React, Redux, MobX (in branch), Babel proposals, Hacker News API</em
+        ><br /><br />
         <IconDemo class="icon" decorative :size="20" />
         <a
           rel="noopener noreferrer"
@@ -22,7 +23,17 @@
           target="_blank"
           href="https://github.com/jorgvm/hacker-news"
         >
-          Git repository
+          Git repository met Redux
+        </a>
+
+        <br />
+        <IconCode class="icon" decorative :size="20" />
+        <a
+          rel="noopener noreferrer"
+          target="_blank"
+          href="https://github.com/jorgvm/hacker-news/tree/mobx"
+        >
+          Git repository met Mobx (aparte branch)
         </a>
       </p>
 
